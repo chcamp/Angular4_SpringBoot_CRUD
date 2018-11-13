@@ -1,0 +1,27 @@
+<div class="container">
+
+  <table class="table table-striped">
+    <thead>
+      <th>ID</th>
+      <th>Nombre</th>
+      <th>Apellido</th>
+      <th>Operaciones</th>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let user of users">
+        <td>{{user.id}}</td>
+        <td>{{user.nombre}}</td>
+        <td>{{user.apellido}}</td>
+        <td>
+          <button class="btn btn-danger" (click)="eliminarUser(user)" style="margin-right:2.5em;">Eliminar</button>
+          
+          <button class="btn btn-primary" (click)="actualizarUser(user)">Editar</button>
+        
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+    <button class="btn btn-primary" (click)="nuevoUser()">Nuevo Usuario</button>
+</div>
