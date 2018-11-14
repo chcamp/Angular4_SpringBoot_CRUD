@@ -1,7 +1,7 @@
 # Angular4_SpringBoot_CRUD
 Demo de angular4 , SpringBoot, Hibernate, DB H2 CRUD demostración.
 
-para porbarlo si no tienes instalado el Anguler CLI instalarlo teniendo instaldo el npn de nodeJs.
+Para porbarlo si no tienes instalado el Anguler CLI instalarlo teniendo instaldo el npn de nodeJs.
 1.-Instalar el Angular cli:
 estando dentro de la carpeta del frontend llamada "restCliAng" hacer:
 
