@@ -1,7 +1,7 @@
 # Angular4_SpringBoot_CRUD
 Demo de angular4 , SpringBoot, Hibernate, DB H2 CRUD demostración.
 
-Para probar el proyecto, si no tienes instalado el Angular CLI, debemos instalarlo. Teniendo instaldo el npm de nodeJs (Esto se instala en windos descargandote el nodejs le das siguiente, siguiente, Finalizar. En Ubuntu es: sudo apt update, sudo apt install nodejs y vemos si esta instalado viendo la versión: nodejs --version y para instalar el npm: sudo apt install npm probamos la versión para saber, también, si se ha instalado: npm --version).
+Para probar el proyecto, si no tienes instalado el Angular CLI, debemos instalarlo. Teniendo instaldo el npm de nodeJs (Esto se instala en Windows descargandote el nodejs le das siguiente, siguiente, finalizar. En Ubuntu es: sudo apt update, sudo apt install nodejs y vemos si esta instalado viendo la versión: nodejs --version y para instalar el npm: sudo apt install npm probamos la versión para saber, también, si se ha instalado: npm --version).
 
 1.-Instalar el Angular cli:
 estando dentro de la carpeta del frontend llamada "restCliAng" hacer:
