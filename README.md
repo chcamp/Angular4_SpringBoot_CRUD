@@ -20,3 +20,5 @@ Refrescar el proyecto, deberia aparecer la carepta "node_modules".
 
 ng serve --open. para que se abra el servidor angular en tu navegador por defecto.
 
+--Rolando Christian Campos.
+
